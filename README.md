@@ -10,7 +10,7 @@ APP
 
     Jogo tipo etapas progressivas de desafios a serem executadas passando de nivel com os pontos obtidos.
         
-    Desenvolvido em typescript/react e rodando em next server.
+    Desenvolvido em typescript/react e next.
     
     App deployed at Vercel.
     
