@@ -1,7 +1,15 @@
 # moveit-next
 
     Projeto Next - React
-
-    App deployed at Vercel
+    
 
 https://moveit-next-theta-teal.vercel.app/
+
+
+APP
+
+    Jogo tipo etapas progressivas de desafios a serem executadas passando de nivel com os pontos obtidos.
+        
+    Desenvolvido em typescript/react e rodando em next server.
+    
+    App deployed at Vercel.
