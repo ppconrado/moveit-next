@@ -13,3 +13,5 @@ APP
     Desenvolvido em typescript/react e rodando em next server.
     
     App deployed at Vercel.
+    
+    App armazena os scores do jogo em cookies.
